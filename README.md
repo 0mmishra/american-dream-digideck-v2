@@ -247,8 +247,8 @@ to
 
 ## 🔗 Links
 
-* 🌐 Live Demo: 
-* 💻 GitHub: 
+* 🌐 Live Demo: https://american-dream-digideck-v2.vercel.app/
+  
 
 ---
 
